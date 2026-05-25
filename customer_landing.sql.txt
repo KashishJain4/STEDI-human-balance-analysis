@@ -1,0 +1,9 @@
+customer_landing.sql
+
+select count(*) from customer_landing
+
+select  
+    COUNT(*) AS total_customers,
+    MIN(registrationdate) AS earliest_registration,
+    MAX(registrationdate) AS latest_registration
+FROM customer_landing;
