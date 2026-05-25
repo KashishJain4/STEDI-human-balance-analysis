@@ -1,5 +1,0 @@
-accelerometer_landing.sql
-
-
-
-select * from accelerometer_landing;
