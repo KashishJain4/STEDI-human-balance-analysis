@@ -1,6 +1,0 @@
-step_trainer_landing.sql
-
-
-
-
-select * from step_trainer_landing;
